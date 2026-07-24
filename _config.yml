@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Buz Galbraith"
 title_separator          : "-"
-name                     : &name "Woodward (Bu)z Galbraith"
+name                     : &name "Woodward (Buz) Galbraith"
 description              : &description "Woodward (Buz) Galbraith — PhD student in computer science at Northeastern University."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://buzgalbraith.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
