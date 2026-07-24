@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science (Computational Biology & Machine Learning Research Areas), Northeastern University, Khoury College of Computer Sciences, 2025 – present (GPA: 3.9/4.0)
-  * Advised by Prof. Benjamin M. Gyori, Gyori Lab for Computational Biomedicine
-  * Research spans biomedical knowledge graph construction, ontology matching, entity grounding, and computational genomics
-  * Honors: ISMB Travel Fellowship ($500, 2026); Distinguished Research Fellow, Khoury College of Computer Sciences ($61,500, 2025)
-* M.S. in Data Science (focus in Biomedical Informatics), New York University, 2022 – 2024 (GPA: 3.9/4.0)
-  * Thesis: *A Knowledge Graph-Driven Approach to Understanding Cancer Risks and Treatment Recommendations* (advised by Dr. Kushal Dey, Memorial Sloan Kettering Cancer Center)
-  * Coursework: Single-Cell Analysis, Deep Learning, ML for Health Care, Proteomics, Big Data, Causal Inference
-* B.A. in Data Science and Economic Theory, Minor in Mathematics, New York University, 2018 – 2022 (GPA: 3.8/4.0)
-  * Honors: Capital One Undergraduate Research Program ($8,000, 2022); Cum Laude (2022)
+**Ph.D. in Computer Science (Computational Biology & Machine Learning Research Areas)** — Northeastern University, Khoury College of Computer Sciences, 2025 – present (GPA: 3.9/4.0)
+* Advised by Prof. Benjamin M. Gyori, Gyori Lab for Computational Biomedicine
+* Research spans biomedical knowledge graph construction, ontology matching, entity grounding, and computational genomics
+* Honors: ISMB Travel Fellowship ($500, 2026); Distinguished Research Fellow, Khoury College of Computer Sciences ($61,500, 2025)
+
+**M.S. in Data Science (focus in Biomedical Informatics)** -— New York University, Center for Data Science, 2022 – 2024 (GPA: 3.9/4.0)
+* Thesis: *A Knowledge Graph-Driven Approach to Understanding Cancer Risks and Treatment Recommendations* (advised by Dr. Kushal Dey, Memorial Sloan Kettering Cancer Center)
+* Coursework: Single-Cell Analysis, Deep Learning, ML for Health Care, Proteomics, Big Data, Causal Inference
+
+**B.A. in Data Science and Economic Theory, Minor in Mathematics** — New York University, College of Arts & Sciences, 2018 – 2022 (GPA: 3.8/4.0)
+* Honors: Capital One Undergraduate Research Program ($8,000, 2022); Cum Laude (2022)
 
 Research experience
 ======

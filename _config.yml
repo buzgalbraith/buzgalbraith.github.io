@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "buz_avatar.png"
   name             : "Woodward (Buz) Galbraith"
-  pronouns         : # example: "she/her"
+  pronouns         : "They/Them"
   bio              : "PhD student in computer science + computational biology at the Khoury College of Computer Sciences, Northeastern University."
-  location         : "Boston, MA"
+  location         : "Boston, MA / New York, NY"
   employer         : "Northeastern University"
   uri              : # URL
   email            : "galbraith.w@northeastern.edu"
