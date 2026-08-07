@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/cv.pdf" class="btn" download><i class="fas fa-fw fa-download" aria-hidden="true"></i> Download CV (PDF)</a>
+<a href="{{ base_path }}/files/woodward_galbraith_cv.pdf" class="btn" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> View CV (PDF)</a>
 
 Research summary
 ======
